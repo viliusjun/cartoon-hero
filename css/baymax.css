@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
 }
 
 header{
@@ -28,8 +30,18 @@ header img{
 main{
 	max-width: 800px;
 	margin: 0 auto;
+	padding: 0 20px;
 }
 
 main img{
 	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: #e70c19;
+}
+
+a{
+	color: #e70c19;
 }
