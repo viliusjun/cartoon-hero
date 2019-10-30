@@ -1,3 +1,35 @@
 body{
-	background-color: red;
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+h1, h2{
+	font-family: 'Roboto Slab', serif;
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+}
+
+header img{
+	border-radius: 190px;
+	width: 400px;
+	border: 15px solid #EF6C00;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+main img{
+	max-width: 100%;
 }
